@@ -1,12 +1,21 @@
 apiVersion: v1
 entries:
+  orders-api:
+  - apiVersion: v1
+    created: "2019-11-07T15:18:25.723640799Z"
+    description: A Helm chart for a Kubernetes app
+    digest: 331c0f99008aabd8c6134bd4808ba4c09b42e6a41234233f93356ab0f33a56e5
+    name: orders-api
+    urls:
+    - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/orders-api-1.0.2-issue-10902-b13d1b1d-20191107150757.tgz
+    version: 1.0.2-issue-10902-b13d1b1d-20191107150757
   ui:
   - apiVersion: v1
-    created: "2019-11-07T15:12:19.47280299Z"
+    created: "2019-11-07T15:18:25.72404483Z"
     description: A Helm chart for a Kubernetes app
     digest: b5874f7412874ee234adafe7d7e8375fef53b9b3fda017b3393893fc7b0f1aa8
     name: ui
     urls:
     - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/ui-1.0.2-issue-10902-bd235a50-20191107150720.tgz
     version: 1.0.2-issue-10902-bd235a50-20191107150720
-generated: "2019-11-07T15:12:19.472247552Z"
+generated: "2019-11-07T15:18:25.722992123Z"
