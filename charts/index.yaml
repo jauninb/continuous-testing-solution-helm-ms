@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   ui:
   - apiVersion: v1
-    created: "2019-11-21T14:43:16.22281138Z"
+    created: "2019-11-21T14:54:20.975058077Z"
     description: A Helm chart for a Kubernetes app
-    digest: 55831c13426a1dac5086fd8141d7a17ff77202171d7d30fabeea70453b5a02df
+    digest: 450e53d281f2c2c0b17980df9d21b4e7f6a8faa936312c9e416f2846fadc9dfa
     name: ui
     urls:
-    - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/ui-1.0.2-master-0e4dc680-20191121143927.tgz
-    version: 1.0.2-master-0e4dc680-20191121143927
-generated: "2019-11-21T14:43:16.22217787Z"
+    - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/ui-1.0.3-master-0e4dc680-20191121144929.tgz
+    version: 1.0.3-master-0e4dc680-20191121144929
+generated: "2019-11-21T14:54:20.974444584Z"
