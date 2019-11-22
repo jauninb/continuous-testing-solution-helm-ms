@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   catalog-api:
   - apiVersion: v1
-    created: "2019-11-22T13:58:36.637276199Z"
+    created: "2019-11-22T13:59:29.85631288Z"
     description: A Helm chart for a Kubernetes app
-    digest: f3ac9fd15dc61dd2d52f8b4a06665497a5a831e43c21737321e1d80261084492
+    digest: 59f9cd78e3df3afc01124120396851a48fd813d1769b41b5b69b94812c50dc33
     name: catalog-api
     urls:
-    - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/catalog-api-1.0.2-master-6a283cfa-20191121150205.tgz
-    version: 1.0.2-master-6a283cfa-20191121150205
+    - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/catalog-api-1.0.4-master-6a283cfa-20191122134748.tgz
+    version: 1.0.4-master-6a283cfa-20191122134748
   orders-api:
   - apiVersion: v1
-    created: "2019-11-22T13:58:36.638645204Z"
+    created: "2019-11-22T13:59:29.856712075Z"
     description: A Helm chart for a Kubernetes app
     digest: 505485d01a1e43cde507ef758ffc2afc6f7f4eca84ddfb915c5a68a5e9a09f70
     name: orders-api
@@ -20,11 +20,11 @@ entries:
     version: 1.0.4-master-112076b4-20191122134740
   ui:
   - apiVersion: v1
-    created: "2019-11-22T13:58:36.639014061Z"
+    created: "2019-11-22T13:59:29.857043586Z"
     description: A Helm chart for a Kubernetes app
     digest: 0d11068bb64be2d315dfc2bfe3d8be7a66d72e35bc3c89ba97d2f1b67e755c00
     name: ui
     urls:
     - https://github.com/jauninb/continuous-testing-solution-helm-ms/raw/master/charts/ui-1.0.4-master-0e4dc680-20191122134835.tgz
     version: 1.0.4-master-0e4dc680-20191122134835
-generated: "2019-11-22T13:58:36.636649713Z"
+generated: "2019-11-22T13:59:29.855719924Z"
